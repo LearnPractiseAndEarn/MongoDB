@@ -14,3 +14,14 @@ for high transactions like banking system ..dont use mongo db
 there use sql 
 --------------------------------------------------------------------------
 
+Mongo db installation
+
+https://www.mongodb.com/
+
+community Edition-->community server-->
+
+Mongo db community server--Available downloads-->
+
+choose version, platform and download 
+
+---------------------------
